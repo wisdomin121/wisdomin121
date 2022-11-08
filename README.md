@@ -29,7 +29,12 @@
 
 <br/><br/>
 
-## 🧡**ALGORITHM**🧡
+## 🧡**GITHUB STATS**🧡
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wisdomin121)](https://github.com/wisdomin121/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wisdomin121&layout=compact)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/wisdomin121/github-readme-stats))
+<br/><br/>
+
+## 💛**ALGORITHM**💛
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wisdomin121)](https://solved.ac/wisdomin121)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=wisdomin121&theme=warm)
 
