@@ -36,7 +36,6 @@
 
 ## 💛**ALGORITHM**💛
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wisdomin121)](https://solved.ac/wisdomin121)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=wisdomin121&theme=warm)
 
 <br/><br/>
 
